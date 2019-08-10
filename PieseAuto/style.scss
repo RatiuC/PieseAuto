@@ -1,0 +1,27 @@
+$color:Black;
+
+h1{
+  color:$color;
+  text-align: center;
+  font-size: 40px;
+  padding: 4px;
+  border: 2px,2px,2px;
+  background-color: lightblue;
+}
+
+.Meniu{
+  text-align: center;
+  font-size: 25px;
+  color: Blue;
+  background: lightblue;
+  border-width: 5px;
+  border-style: solid;
+  border-collapse: collapse;
+  border-color: Black;
+}
+
+.Cel1, .Cel2, .Cel3, .Cel4{
+  border-right: 5px;
+  border-width: 50%;
+  border-collapse: collapse;
+}
